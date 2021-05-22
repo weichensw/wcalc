@@ -1,0 +1,22 @@
+{
+  "name": "wcalc",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbtsw/wcalc.git"
+  },
+  "author": "Wei Chen",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/xbtsw/wcalc/issues"
+  },
+  "homepage": "https://github.com/xbtsw/wcalc#readme",
+  "dependencies": {
+    "esbuild": "^0.12.1"
+  }
+}
